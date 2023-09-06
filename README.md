@@ -1,2 +1,6 @@
 # Pytorch_Practice
-Alguno notebooks para repasar algunas formas de utilizar Pytorch para entrenar modelos
+
+
+1. Linear Regression (Scikit Learn vs Pytorch)
+
+2. Penguins Classification 
